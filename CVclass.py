@@ -5,6 +5,8 @@ Created on Tue Nov  9 21:38:52 2021
 @author: LJ
 """
 
+#Tensorflow 2 implementation of the original code found in https://github.com/twke18/Adaptive_Affinity_Fields 
+
 from tensorflow.keras import backend as K
 #import tensorflow.compat.v1 as v1
 import numpy as np
